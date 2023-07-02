@@ -2,6 +2,8 @@
 
 [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) offered by Stanford University through Coursera.
 
+Certificate: [Link](https://coursera.org/share/bcb677adfc507bd6241fc471f3321286)
+
 ## Courses:
 * [Course 1](https://www.coursera.org/learn/algorithms-divide-conquer) - Divide and Conquer, Sorting and Searching, and Randomized Algorithms - **Done**
 * [Course 2](https://www.coursera.org/learn/algorithms-graphs-data-structures) - Graph Search, Shortest Paths, and Data Structures - **Done**
